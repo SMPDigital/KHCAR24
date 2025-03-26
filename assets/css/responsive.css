@@ -1,0 +1,284 @@
+@media(max-width: 1575px){
+    .zoompanel .text-panel {
+        padding: 50px;
+    }
+    .zoompanel .text-panel p {
+        font-size: 14px;
+    }
+}
+
+
+
+
+@media(max-width: 1400px){
+
+
+.header-page .section-titles {
+	position: absolute;
+	right: 70px;
+	margin: 0 40px 0 40px;
+	width: calc(50vw - 150px);
+}
+	
+.header-page .section-titles .page-title {
+	font-size: 50px;
+	line-height: 55px;;
+	margin-top: 15px;
+	color: white;
+}
+	
+.header-page .hidden-text p {
+  font-size: 19px;
+  line-height: 1.3;
+}	
+	
+	
+
+	
+}
+
+
+
+@media(max-width: 1200px){
+.header-page .section-titles {
+	position: absolute;
+	right: 70px;
+	margin: 0 40px 0 40px;
+	width: calc(50vw - 150px);
+}
+	
+.header-page .section-titles .page-title {
+	font-size: 36px;
+	line-height: 40px;;
+	margin-top: 15px;
+	color: white;
+}
+	
+	
+.header-page .hidden-heading h2 {
+  font-size: 25px;
+  line-height: 30px;
+  padding: 0px;
+  margin: 5px 0px 10px 0px;
+}
+	
+	
+.header-page .hidden-text p {
+  font-size: 17px;
+  line-height: 1.3;
+}	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}
+
+@media(max-width: 992px){
+	
+	
+	
+	.titlewrap h1 {
+font-weight: 300;
+  font-size: 25px;
+  color: #39b54a;
+  padding: 0px;
+  line-height: 30px;
+}
+
+
+
+
+
+.titlewrap h2 {
+font-weight: 400 !important;
+    font-size: 32px !important;
+    color: #124734;
+    line-height: 37px !important;
+    padding: 0px;
+    margin: 12px 0px 5px 0px;
+}
+	
+	
+	
+	
+	
+	
+.header-page .section-titles {
+position: absolute;
+    right: 20px;
+    margin: 0 25px 0 25px;
+    width: calc(50vw - 90px);
+    top: 60%;
+	
+}
+	
+.header-page .section-titles .page-title {
+	font-size: 28px;
+	line-height: 32px;;
+	margin-top: 15px;
+	color: white;
+}
+	
+	
+.header-page .hidden-heading h2 {
+  font-size: 22px;
+  line-height: 26px;
+  padding: 0px;
+  margin: 5px 0px 10px 0px;
+}
+	
+	
+.header-page .hidden-text p {
+  font-size: 16px;
+  line-height: 1.3;
+}		
+	
+	
+	
+	
+	
+	
+	
+	
+    .header-page {
+        height: 85vh;
+    }
+    .zoompanel {
+        height: auto;
+        flex-direction: column;
+    }
+    .zoompanel .image-panel {
+        width: 100%;
+    }
+    .zoompanel .text-panel {
+        width: 100%;
+    }
+    .zoompanel .image-panel img {
+        position: relative;
+        width: 100%;
+        height: auto;
+    }
+    .zoompanel .zoomimage1 img {
+        transform: scale(1);
+        position: absolute;
+    }
+    .zoompanel .zoomimage2 img {
+        transform: scale(1);
+    }
+}
+
+
+
+@media(max-width: 840px){
+	
+.header-page .section-titles {
+position: absolute;
+    right: 20px;
+    margin: 0 25px 0 25px;
+    width: calc(50vw - 90px);
+    top: 60%;
+	
+}
+	
+.header-page .section-titles .page-title {
+	font-size: 27px;
+	line-height: 31px;;
+	margin-top: 12px;
+	color: white;
+}
+	
+	
+.header-page .hidden-heading h2 {
+  font-size: 20px;
+  line-height: 25px;
+  padding: 0px;
+  margin: 5px 0px 10px 0px;
+}
+	
+	
+.header-page .hidden-text p {
+  font-size: 15px;
+  line-height: 1.3;
+}		
+		
+	
+	
+	
+	
+	
+}
+
+
+
+
+
+@media(max-width: 768px){
+
+ .header-page .hidden-heading h2 {
+    font-size: 25px !important;
+    line-height: 30px;
+    padding: 0px;
+    margin: 5px 0px 10px 0px;
+    color: #36693e;
+    font-weight: 500 !important;
+  }
+	
+ .header-page .hidden-text p {
+    color: #39b54a;
+    font-size: 15px;
+    line-height: 1.3;
+    font-weight: 400;
+  }	
+	
+	
+    .header-page {
+        height: auto;
+        background-color: transparent;
+    }
+    .header-page .header-img img {
+        transform: scale(1);
+    }
+    .header-page .section-titles {
+        position: relative;
+        top: inherit;
+        right: inherit;
+        transform: translateY(0);
+        margin: 30px 30px 0 30px;
+        width: auto;
+    }
+    .header-page .section-titles .page-title {
+        color: #104735;
+    font-size: 30px !important;
+    line-height: 34px !important;
+		
+		
+    }
+    .header-page .hidden-text {
+        margin-top: 15px;
+    }
+
+	
+.header-page .section-titles .section-title {
+  font-size: 16px !important;
+  line-height: 1;
+  color: #104735;
+  padding-top: 10px;
+}	
+	
+	
+	
+	
+}
+
+@media(max-width: 540px){
+    .header-page .section-titles {
+        margin: 30px 15px 0 15px;
+    }
+}
