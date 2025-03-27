@@ -2324,7 +2324,22 @@ if($(window).width() > 991){
 
 
 
+document.addEventListener("DOMContentLoaded", function () {
 
+    gsap.from(".ag-gradiantcounter-box", {
+        opacity: 0,
+        y: 50,
+        duration: 0.8,
+        stagger: 0.2, // Each box loads one after another
+        ease: "power2.out",
+        scrollTrigger: {
+            trigger: ".ag-gradiantcounter-section",
+            start: "top bottom", // When the section enters the viewport
+            end: "bottom top",
+            toggleActions: "play none none reverse",
+        }
+    });
+});
 
 
 

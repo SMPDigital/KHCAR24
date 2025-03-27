@@ -222,6 +222,7 @@ img.ag-section-row-images {
 .ag-gradiantcounter-section {
     display: flex;
     justify-content: space-between;
+	overflow: hidden;
 }
 
 .ag-gradiantcounter-box {
