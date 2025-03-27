@@ -330,12 +330,13 @@ tbody.small { font-size:11px; line-height:120%;	}
 
 
 table a { color: #104735; }
+table tr td { position: relative; }
 
 /* 3 row header */
-table.ft td+td { text-align:right }
-table.ft tbody tr td { vertical-align: bottom;}
-table.ft thead tr:first-child { background-color: #dcddde;}
-table.ft thead tr:first-child td+td {text-align:right; border-bottom:1px #124734  solid; }
+table.ft thead td+td { text-align:right }
+table.ft tbody tr td { vertical-align: bottom; text-align: right; border-right:1px #124734  solid;}
+/*table.ft thead tr:first-child td { background-color: #dcddde;}*/
+table.ft thead tr:first-child td+td {text-align:center; }
 table.ft thead tr+tr td+td {text-align:right; }
 table.ft thead tr:last-child { border-bottom:3px #124734  solid;}
 table.ft tbody tr:last-child { border-bottom:1px #124734  solid; }
@@ -401,10 +402,7 @@ table td.pink p{
 }
 thead td.gc { background-color: #808285; color: white;}
 
-.cy { background-color: #eef2f1; font-weight: 500; color: #124734;}
-
-
-thead tr td.cy { background-color: #c3d1cc; color: #124734;}
+.cy { font-weight: 500; color: #124734;}
 
 
 
@@ -415,7 +413,7 @@ thead tr td.cy { background-color: #c3d1cc; color: #124734;}
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   padding: 0px 0px 0px 0px;
-  border: 1px solid #958172;
+/*  border: 1px solid #958172;*/
 }
 
 

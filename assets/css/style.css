@@ -395,3 +395,26 @@ img.ag-section-row-images {
 }
 
 /* img-with-text-row styles end*/
+
+/* table custom css start */
+
+table.ft thead tr:first-child td+td::before {
+	position: absolute;
+	content: "";
+	top: 0;
+    left: 0;
+	width: 100%;
+	height: 100%;
+	border-top: 1px solid #124734;
+	border-radius: 10px;
+}
+
+table.ft thead tr:last-child td{
+	border-right:1px #124734  solid;
+}
+
+table.ft tbody tr td:first-child strong {
+	float: left !important;
+}
+
+/* table custom css start */
