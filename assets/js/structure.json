@@ -1,559 +1,137 @@
 [
   {
-    "name": "overview",
+    "name": "introduction",
     "slug": "#",
     "children": [
       {
         "name": "about the report",
-        "slug": "overview/about_the_report.html",
-        "pdf": "8-9",
-        "pdfsize": "145 KB"
+        "slug": "introduction/about_the_report.html"
       },
       {
-        "name": "this is alrajhi bank",
-        "slug": "overview/this_is_alrajhi_bank.html",
-        "pdf": "10-15",
-        "pdfsize": "1291 KB"
+        "name": "at a glance",
+        "slug": "introduction/at_a_glance.html"
       },
       {
-        "name": "value drivers: 2024 at a glance",
-        "slug": "overview/value_drivers_2024_at_a_glance.html",
-        "pdf": "16-17",
-        "pdfsize": "93 KB"
+        "name": "kingdom holding company",
+        "slug": "introduction/kingdom_holding_company.html"
       },
       {
-        "name": "five-year summary",
-        "slug": "overview/fiveyear_summary.html",
-        "pdf": "19",
-        "pdfsize": "40 KB"
-      },
+        "name": "year in review",
+        "slug": "introduction/year_in_review.html"
+      }
+    ]
+  },
+  {
+    "name": "core messages",
+    "slug": "#",
+    "children": [
       {
         "name": "chairman's statement",
-        "slug": "overview/chairmans_statement.html",
-        "pdf": "20-23",
-        "pdfsize": "147 KB"
+        "slug": "core_messages/chairmans_statement.html"
       },
       {
-        "name": "managing director and chief executive officer's review",
-        "slug": "overview/managing_director_and_chief_executive_officers_review.html",
-        "pdf": "24-27",
-        "pdfsize": "240 KB"
+        "name": "chief executive officer's review",
+        "slug": "core_messages/chief_executive_officers_review.html"
+      },
+      {
+        "name": "chief financial officer's review",
+        "slug": "core_messages/chief_financial_officers_review.html"
       }
     ]
   },
   {
-    "name": "context",
+    "name": "business case",
     "slug": "#",
     "children": [
       {
-        "name": "operating context",
-        "slug": "context/operating_context.html",
-        "pdf": "29-33",
-        "pdfsize": "426 KB"
+        "name": "strategy",
+        "slug": "business_case/strategy.html"
       },
       {
-        "name": "strategic direction",
-        "slug": "context/strategic_direction.html",
-        "pdf": "34-42",
-        "pdfsize": "552 KB"
+        "name": "investor relations communication and engagement",
+        "slug": "business_case/investor_relations_communication_and_engagement.html"
       },
       {
-        "name": "value creation model",
-        "slug": "context/value_creation_model.html",
-        "pdf": "44-45",
-        "pdfsize": "48 KB"
+        "name": "Driving Vision 2030",
+        "slug": "business_case/driving_vision_2030.html"
       }
     ]
   },
   {
-    "name": "business in perspective",
+    "name": "business review",
     "slug": "#",
     "children": [
       {
-        "name": "chief financial officer's review of 2024 performance",
-        "slug": "business_in_perspective/chief_financial_officers_review_of_2024_performance.html",
-        "pdf": "48-52",
-        "pdfsize": "200 KB"
+        "name": "review of kingdom holding for 2024",
+        "slug": "business_review/review_of_kingdom_holding_for_2024.html"
       },
       {
-        "name": "business portfolio review",
-        "slug": "#",
-        "children": [
-          {
-            "name": "retail banking group",
-            "slug": "business_in_perspective/business_portfolio_review/retail_banking_group.html",
-            "pdf": "53-57",
-            "pdfsize": "222 KB"
-          },
-          {
-            "name": "corporate banking group",
-            "slug": "business_in_perspective/business_portfolio_review/corporate_banking_group.html",
-            "pdf": "58-61",
-            "pdfsize": "218 KB"
-          },
-          {
-            "name": "treasury group",
-            "slug": "business_in_perspective/business_portfolio_review/treasury_group.html",
-            "pdf": "62-64",
-            "pdfsize": "240 KB"
-          },
-          {
-            "name": "MSME business",
-            "slug": "business_in_perspective/business_portfolio_review/msme_business.html",
-            "pdf": "65-67",
-            "pdfsize": "225 KB"
-          }
-        ]
+        "name": "review of core equity holdings",
+        "slug": "business_review/review_of_core_equity_holdings.html"
       },
       {
-        "name": "subsidiaries and international network",
-        "slug": "business_in_perspective/subsidiaries_and_international_network.html",
-        "pdf": "68-69",
-        "pdfsize": "801 KB"
+        "name": "review of education",
+        "slug": "business_review/review_of_education.html"
       },
       {
-        "name": "subsidiaries",
-        "slug": "#",
-        "children": [
-          {
-            "name": "Al Rajhi Capital",
-            "slug": "business_in_perspective/subsidiaries/al_rajhi_capital.html",
-            "pdf": "70-74",
-            "pdfsize": "231 KB"
-          },
-          {
-            "name": "tuder real estate company",
-            "slug": "business_in_perspective/subsidiaries/tuder_real_estate_company.html",
-            "pdf": "75-77",
-            "pdfsize": "302 KB"
-          },
-          {
-            "name": "neoleap",
-            "slug": "business_in_perspective/subsidiaries/neoleap.html",
-            "pdf": "79-83",
-            "pdfsize": "233 KB"
-          },
-          {
-            "name": "emkan finance",
-            "slug": "business_in_perspective/subsidiaries/emkan_finance.html",
-            "pdf": "84-86",
-            "pdfsize": "342 KB"
-          },
-          {
-            "name": "ejada systems",
-            "slug": "business_in_perspective/subsidiaries/ejada_systems.html",
-            "pdf": "87-92",
-            "pdfsize": "445 KB"
-          },
-          {
-            "name": "atmaal",
-            "slug": "business_in_perspective/subsidiaries/atmaal.html",
-            "pdf": "93-94",
-            "pdfsize": "274 KB"
-          },
-          {
-            "name": "neotek",
-            "slug": "business_in_perspective/subsidiaries/neotek.html",
-            "pdf": "95-96",
-            "pdfsize": "534 KB"
-          },
-          {
-            "name": "drahim",
-            "slug": "business_in_perspective/subsidiaries/drahim.html",
-            "pdf": "97-98",
-            "pdfsize": "401 KB"
-          }
-        ]
+        "name": "review of healthcare",
+        "slug": "business_review/review_of_healthcare.html"
       },
       {
-        "name": "international network",
-        "slug": "#",
-        "children": [
-          {
-            "name": "alrajhi bank - Malaysia",
-            "slug": "business_in_perspective/international_network/alrajhi_bank__malaysia.html",
-            "pdf": "100-104",
-            "pdfsize": "757 KB"
-          },
-          {
-            "name": "alrajhi bank - Jordan",
-            "slug": "business_in_perspective/international_network/alrajhi_bank__jordan.html",
-            "pdf": "105-108",
-            "pdfsize": "368 KB"
-          },
-          {
-            "name": "alrajhi bank - Kuwait",
-            "slug": "business_in_perspective/international_network/alrajhi_bank__kuwait.html",
-            "pdf": "109-111",
-            "pdfsize": "454 KB"
-          }
-        ]
+        "name": "review of hospitality",
+        "slug": "business_review/review_of_hospitality.html"
       },
       {
-        "name": "shared services group",
-        "slug": "business_in_perspective/shared_services_group.html",
-        "pdf": "112-119",
-        "pdfsize": "87 KB"
+        "name": "high tech equity holdings",
+        "slug": "business_review/high_tech_equity_holdings.html"
       },
       {
-        "name": "shariah group",
-        "slug": "business_in_perspective/shariah_group.html",
-        "pdf": "121-123",
-        "pdfsize": "68 KB"
+        "name": "commitment to sustainability",
+        "slug": "business_review/commitment_to_sustainability.html"
       }
     ]
-  },
-  {
-    "name": "sustainable development",
-    "slug": "#",
-    "children": [
-      {
-        "name": "sustainability overview",
-        "slug": "sustainable_development/sustainability_overview.html",
-        "pdf": "125",
-        "pdfsize": "40 KB"
-      },
-      {
-        "name": "sustainability journey",
-        "slug": "sustainable_development/sustainability_journey.html",
-        "pdf": "126",
-        "pdfsize": "34 KB"
-      },
-      {
-        "name": "sustainability strategy",
-        "slug": "sustainable_development/sustainability_strategy.html",
-        "pdf": "127-128",
-        "pdfsize": "56 KB"
-      },
-      {
-        "name": "sustainability governance",
-        "slug": "sustainable_development/sustainability_governance.html",
-        "pdf": "129",
-        "pdfsize": "25 KB"
-      },
-      {
-        "name": "stakeholders",
-        "slug": "sustainable_development/stakeholders.html",
-        "pdf": "130-134",
-        "pdfsize": "146 KB"
-      },
-      {
-        "name": "materiality",
-        "slug": "sustainable_development/materiality.html",
-        "pdf": "135-136",
-        "pdfsize": "55 KB"
-      },
-      {
-        "name": "mapping to the UN Sustainable Development Goals (UNSDGs)",
-        "slug": "sustainable_development/mapping_to_the_un_sustainable_development_goals_unsdgs.html",
-        "pdf": "137-143",
-        "pdfsize": "133 KB"
-      }
-    ]
-  },
-  {
-    "name": "environmental stewardship & climate action",
-    "slug": "environmental_stewardship_and_climate_action/environmental_stewardship_and_climate_action.html",
-    "pdf": "145",
-    "children": [
-      {
-        "name": "environmental initiatives",
-        "slug": "environmental_stewardship_and_climate_action/environmental_initiatives.html",
-        "pdf": "146-148",
-        "pdfsize": "51 KB"
-      },
-      {
-        "name": "environmental performance",
-        "slug": "environmental_stewardship_and_climate_action/environmental_performance.html",
-        "pdf": "149",
-        "pdfsize": "41 KB"
-      },
-      {
-        "name": "climate risks and opportunities",
-        "slug": "environmental_stewardship_and_climate_action/climate_risks_and_opportunities.html",
-        "pdf": "150",
-        "pdfsize": "24 KB"
-      }
-    ],
-    "pdfsize": "351 KB"
-  },
-  {
-    "name": "cultivating a future forward workforce",
-    "slug": "cultivating_a_future_forward_workforce/cultivating_a_future_forward_workforce.html",
-    "pdf": "152-153",
-    "children": [
-      {
-        "name": "talent attraction and retention",
-        "slug": "cultivating_a_future_forward_workforce/talent_attraction_and_retention.html",
-        "pdf": "154-155",
-        "pdfsize": "51 KB"
-      },
-      {
-        "name": "talent management",
-        "slug": "cultivating_a_future_forward_workforce/talent_management.html",
-        "pdf": "156-157",
-        "pdfsize": "49 KB"
-      },
-      {
-        "name": "diversity and inclusion",
-        "slug": "cultivating_a_future_forward_workforce/diversity_and_inclusion.html",
-        "pdf": "158-159",
-        "pdfsize": "146 KB"
-      },
-      {
-        "name": "employee engagement and wellbeing",
-        "slug": "cultivating_a_future_forward_workforce/employee_engagement_and_wellbeing.html",
-        "pdf": "160-164",
-        "pdfsize": "70 KB"
-      },
-      {
-        "name": "learning and development at alrajhi group",
-        "slug": "cultivating_a_future_forward_workforce/learning_and_development_at_alrajhi_group.html",
-        "pdf": "165-168",
-        "pdfsize": "62 KB"
-      },
-      {
-        "name": "occupational health and safety",
-        "slug": "cultivating_a_future_forward_workforce/occupational_health_and_safety.html",
-        "pdf": "169-170",
-        "pdfsize": "44 KB"
-      },
-      {
-        "name": "human rights",
-        "slug": "cultivating_a_future_forward_workforce/human_rights.html",
-        "pdf": "171",
-        "pdfsize": "32 KB"
-      }
-    ],
-    "pdfsize": "383 KB"
-  },
-  {
-    "name": "community development: driving impact",
-    "slug": "community_development_driving_impact/community_development_driving_impact.html",
-    "pdf": "174",
-    "children": [
-      {
-        "name": "community development: focus areas",
-        "slug": "community_development_driving_impact/community_development_focus_areas.html",
-        "pdf": "175-176",
-        "pdfsize": "46 KB"
-      },
-      {
-        "name": "key social responsibility initiatives",
-        "slug": "community_development_driving_impact/key_social_responsibility_initiatives.html",
-        "pdf": "177-181",
-        "pdfsize": "71 KB"
-      }
-    ],
-    "pdfsize": "194 KB"
-  },
-  {
-    "name": "customer engagement and responsible banking",
-    "slug": "customer_engagement_and_responsible_banking/customer_engagement_and_responsible_banking.html",
-    "pdf": "183",
-    "children": [
-      {
-        "name": "customer relationship management",
-        "slug": "customer_engagement_and_responsible_banking/customer_relationship_management.html",
-        "pdf": "184-187",
-        "pdfsize": "65 KB"
-      },
-      {
-        "name": "digital transformation",
-        "slug": "customer_engagement_and_responsible_banking/digital_transformation.html",
-        "pdf": "188-192",
-        "pdfsize": "146 KB"
-      },
-      {
-        "name": "customer care",
-        "slug": "customer_engagement_and_responsible_banking/customer_care.html",
-        "pdf": "193",
-        "pdfsize": "38 KB"
-      },
-      {
-        "name": "customer fraud prevention",
-        "slug": "customer_engagement_and_responsible_banking/customer_fraud_prevention.html",
-        "pdf": "194-196",
-        "pdfsize": "59 KB"
-      },
-      {
-        "name": "fair advertising",
-        "slug": "customer_engagement_and_responsible_banking/fair_advertising.html",
-        "pdf": "197-199",
-        "pdfsize": "126 KB"
-      },
-      {
-        "name": "promoting financial inclusion",
-        "slug": "customer_engagement_and_responsible_banking/promoting_financial_inclusion.html",
-        "pdf": "200-201",
-        "pdfsize": "52 KB"
-      }
-    ],
-    "pdfsize": "181 KB"
-  },
-  {
-    "name": "sustainable financing",
-    "slug": "sustainable_financing/sustainable_financing.html",
-    "pdf": "203",
-    "children": [
-      {
-        "name": "sustainable financing at alrajhi bank: a timeline",
-        "slug": "sustainable_financing/sustainable_financing_at_alrajhi_bank_a_timeline.html",
-        "pdf": "204",
-        "pdfsize": "165 KB"
-      },
-      {
-        "name": "sustainable finance framework",
-        "slug": "sustainable_financing/sustainable_finance_framework.html",
-        "pdf": "205-212",
-        "pdfsize": "335 KB"
-      },
-      {
-        "name": "sustainable products and digitisation",
-        "slug": "sustainable_financing/sustainable_products_and_digitisation.html",
-        "pdf": "213",
-        "pdfsize": "24 KB"
-      }
-    ],
-    "pdfsize": "162 KB"
   },
   {
     "name": "corporate governance",
-    "slug": "corporate_governance/corporate_governance.html",
-    "pdf": "215",
-    "children": [
-      {
-        "name": "board of directors",
-        "slug": "corporate_governance/board_of_directors.html",
-        "pdf": "216-221",
-        "pdfsize": "1083 KB"
-      },
-      {
-        "name": "executive management",
-        "slug": "corporate_governance/executive_management.html",
-        "pdf": "222-225",
-        "pdfsize": "1275 KB"
-      },
-      {
-        "name": "chief executive officers of subsidiaries and international network",
-        "slug": "corporate_governance/chief_executive_officers_of_subsidiaries_and_international_network.html",
-        "pdf": "226-228",
-        "pdfsize": "798 KB"
-      },
-      {
-        "name": "corporate governance structure at alrajhi",
-        "slug": "corporate_governance/corporate_governance_structure_at_alrajhi.html",
-        "pdf": "229-260",
-        "pdfsize": "331 KB"
-      },
-      {
-        "name": "risk management",
-        "slug": "corporate_governance/risk_management.html",
-        "pdf": "261-266",
-        "pdfsize": "77 KB"
-      },
-      {
-        "name": "data privacy and information management",
-        "slug": "corporate_governance/data_privacy_and_information_management.html",
-        "pdf": "267",
-        "pdfsize": "25 KB"
-      },
-      {
-        "name": "tax transparency and financial reporting",
-        "slug": "corporate_governance/tax_transparency_and_financial_reporting.html",
-        "pdf": "268",
-        "pdfsize": "33 KB"
-      },
-      {
-        "name": "business ethics",
-        "slug": "corporate_governance/business_ethics.html",
-        "pdf": "269-270",
-        "pdfsize": "45 KB"
-      },
-      {
-        "name": "policies related to the corporate governance manual",
-        "slug": "corporate_governance/policies_related_to_the_corporate_governance_manual.html",
-        "pdf": "271-273",
-        "pdfsize": "52 KB"
-      }
-    ],
-    "pdfsize": "36 KB"
-  },
-  {
-    "name": "financial statements",
     "slug": "#",
     "children": [
       {
-        "name": "independent auditors' report",
-        "slug": "financial_statements/independent_auditors_report.html",
-        "pdf": "276-281",
-        "pdfsize": "304 KB"
-      },
-      {
-        "name": "consolidated statement of financial position",
-        "slug": "financial_statements/consolidated_statement_of_financial_position.html",
-        "pdf": "282-283",
-        "pdfsize": "51 KB"
-      },
-      {
-        "name": "consolidated statement of income",
-        "slug": "financial_statements/consolidated_statement_of_income.html",
-        "pdf": "284",
-        "pdfsize": "45 KB"
-      },
-      {
-        "name": "consolidated statement of comprehensive income",
-        "slug": "financial_statements/consolidated_statement_of_comprehensive_income.html",
-        "pdf": "285",
-        "pdfsize": "44 KB"
-      },
-      {
-        "name": "consolidated statement of changes in equity",
-        "slug": "financial_statements/consolidated_statement_of_changes_in_equity.html",
-        "pdf": "286-289",
-        "pdfsize": "69 KB"
-      },
-      {
-        "name": "consolidated statement of cash flows",
-        "slug": "financial_statements/consolidated_statement_of_cash_flows.html",
-        "pdf": "290-291",
-        "pdfsize": "54 KB"
-      },
-      {
-        "name": "notes to the consolidated financial statements",
-        "slug": "financial_statements/notes_to_the_consolidated_financial_statements.html",
-        "pdf": "292-405",
-        "pdfsize": "762 KB"
+        "name": "board report",
+        "slug": "corporate_governance/board_report.html"
       }
     ]
   },
   {
-    "name": "supplementary",
-    "slug": "#",
+    "name": "consolidated financial statements",
+    "slug": "consolidated_financial_statements/consolidated_financial_statements.html",
     "children": [
       {
-        "name": "additional ESG disclosures",
-        "slug": "supplementary/additional_esg_disclosures.html",
-        "pdf": "407-408",
-        "pdfsize": "47 KB"
+        "name": "independent auditor's report",
+        "slug": "consolidated_financial_statements/independent_auditors_report.html"
       },
       {
-        "name": "GRI content index",
-        "slug": "supplementary/gri_content_index.html",
-        "pdf": "409-412",
-        "pdfsize": "54 KB"
+        "name": "consolidated statement of financial position",
+        "slug": "consolidated_financial_statements/consolidated_statement_of_financial_position.html"
       },
       {
-        "name": "glossary of key islamic finance terms",
-        "slug": "supplementary/glossary_of_key_islamic_finance_terms.html",
-        "pdf": "413-414",
-        "pdfsize": "47 KB"
+        "name": "consolidated statement of income",
+        "slug": "consolidated_financial_statements/consolidated_statement_of_income.html"
       },
       {
-        "name": "corporate information",
-        "slug": "supplementary/corporate_information.html",
-        "pdf": "415",
-        "pdfsize": "38 KB"
+        "name": "consolidated statement of comprehensive income",
+        "slug": "consolidated_financial_statements/consolidated_statement_of_comprehensive_income.html"
+      },
+      {
+        "name": "consolidated statement of changes in equity",
+        "slug": "consolidated_financial_statements/consolidated_statement_of_changes_in_equity.html"
+      },
+      {
+        "name": "consolidated statement of cash flows",
+        "slug": "consolidated_financial_statements/consolidated_statement_of_cash_flows.html"
+      },
+      {
+        "name": "notes to the consolidated financial statements",
+        "slug": "consolidated_financial_statements/notes_to_the_consolidated_financial_statements.html"
       }
     ]
   }
