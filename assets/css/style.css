@@ -409,6 +409,10 @@ table.ft thead tr:first-child td+td::before {
 	border-radius: 10px;
 }
 
+table.ft thead tr:first-child td.curve-none::before {
+	display: none;
+}
+
 table.ft thead tr:last-child td{
 	border-right:1px #124734  solid;
 }
