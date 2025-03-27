@@ -396,7 +396,7 @@ img.ag-section-row-images {
 
 /* img-with-text-row styles end*/
 
-/* table custom css start */
+/* table custom financial css start */
 
 table.ft thead tr:first-child td+td::before {
 	position: absolute;
@@ -423,4 +423,27 @@ table.ft tbody tr td:first-child strong, table.ft1 tbody tr td:first-child stron
 }
 
 
-/* table custom css start */
+/* table custom financial css end */
+
+/* table custom review css start */
+
+table.ft-rw, table.ft1-rw { border:1px solid #ad9e93 }
+table.ft-rw thead td+td { text-align:right }
+table.ft-rw tbody tr td { vertical-align: bottom; text-align: right; border-right:1px #124734  solid;}
+table.ft-rw thead tr td { background-color: #f2f0ee;}
+table.ft-rw thead tr:first-child td+td {text-align:center;border-bottom:1px #124734  solid; }
+table.ft-rw thead tr+tr td+td {text-align:right; }
+table.ft-rw thead tr:last-child { border-bottom:3px #124734  solid; border-right:1px #124734  solid;}
+table.ft-rw thead tr:last-child td { border-right:1px #124734  solid;}
+table.ft-rw tbody tr:last-child { border-bottom:1px #124734  solid; }
+
+table.ft1-rw td+td { text-align:right }
+table.ft1-rw tbody tr td { vertical-align: bottom;border-right:1px #124734  solid; text-align: right;}
+table.ft1-rw thead tr { background-color: #f2f0ee;}
+table.ft1-rw thead tr td {text-align:right;border-right:1px #124734  solid;}
+table.ft1-rw thead tr td+td {text-align:right;}
+table.ft1-rw thead tr:last-child { border-bottom:3px #124734  solid; }
+table.ft1-rw tbody tr:last-child { border-bottom:1px #124734  solid; }
+
+table.ft-rw tr td.cy, table.ft1-rw tr td.cy {background: #eef2f1;color: #329052 !important}
+/* table custom review css end */

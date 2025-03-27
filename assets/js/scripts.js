@@ -2031,9 +2031,9 @@ for(let counter of counters){
 	let value = Number(counter.innerHTML).countDecimals()
 	let decimals = 1
 
-	if(value != 0){
-		decimals = `0.${value}`
-	}
+//	if(value != 0){
+//		decimals = `0.${value}`
+//	}
 
     gsap.from(counter, {
         textContent: 0,
