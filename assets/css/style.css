@@ -279,3 +279,119 @@ img.ag-section-row-images {
 }
 
 /* green box style end */
+
+/* img-with-text-row styles start */
+
+.img-with-text-row {
+    display: flex;
+	flex-wrap: wrap;
+}
+
+.img-with-textbox-col {
+    width: 33.3%;
+}
+
+.img-with-textbox-heading{
+    color: #3e983e;
+    margin-bottom: 5px;
+}
+
+.img-with-textbox-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.img-with-textbox-text {   
+    color: white;
+    padding: 15px;
+	position: relative;
+	min-height: 350px;
+}
+
+.img-with-textbox-row ul.list-disc li:before {
+	color: #FFFFFF !important;
+}
+
+.img-with-textbox-row ul.list-disc li{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #6ba243;
+}
+
+.img-with-textbox-row ul.list-disc li:last-child {
+	border-bottom: none;
+}
+
+.img-with-textbox-image img {
+    height: 120%;
+    margin-top: -20px;
+}
+
+.img-with-textbox-image {
+    max-height: 400px;
+    overflow: hidden;
+}
+
+.img-with-textbox-col:first-child .img-with-textbox-text {
+	 background: #2c5b4a;
+}
+
+.img-with-textbox-col:nth-child(2) .img-with-textbox-text {
+	 background: #1c6e2b;
+}
+
+.img-with-textbox-col:nth-child(3) .img-with-textbox-text {
+	 background: #2c5b4a;
+}
+
+.img-with-textbox-col:first-child .img-with-textbox-text {
+	padding-top: 50px;
+}
+
+.img-with-textbox-col:nth-child(2) .img-with-textbox-text {
+	padding-bottom: 50px;
+}
+
+.img-with-textbox-col:nth-child(3) .img-with-textbox-text {
+	padding-top: 50px;
+}
+
+.img-with-textbox-col:first-child .img-with-textbox-texticon {
+   display: flex;
+   justify-content: center;
+	width: 100%
+}
+
+.img-with-textbox-col:first-child .img-with-textbox-texticon img{
+	position: absolute;
+    top: -40px;
+    width: 80px;
+    height: 80px;
+}
+
+.img-with-textbox-col:nth-child(2) .img-with-textbox-texticon {
+   display: flex;
+   justify-content: center;
+	width: 100%
+}
+
+.img-with-textbox-col:nth-child(2) .img-with-textbox-texticon img{
+	position: absolute;
+    bottom: -40px;
+    width: 80px;
+    height: 80px;
+}
+
+.img-with-textbox-col:nth-child(3) .img-with-textbox-texticon {
+   display: flex;
+   justify-content: center;
+	width: 100%
+}
+
+.img-with-textbox-col:nth-child(3) .img-with-textbox-texticon img{
+	position: absolute;
+    top: -40px;
+    width: 80px;
+    height: 80px;
+}
+
+/* img-with-text-row styles end*/
