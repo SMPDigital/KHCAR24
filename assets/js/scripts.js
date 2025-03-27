@@ -2358,6 +2358,23 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 });
 
+document.addEventListener("DOMContentLoaded", function () {
+
+    gsap.from(".green-counter-box", {
+        opacity: 0,
+        y: 50,
+        duration: 1.2,
+        stagger: 0.4, // Each box loads one after another
+        ease: "power2.out",
+        scrollTrigger: {
+            trigger: ".green-counter-box-row",
+            start: "top bottom", // When the section enters the viewport
+            end: "bottom top",
+            toggleActions: "play none none reverse",
+        }
+    });
+});
+
 
 
 
