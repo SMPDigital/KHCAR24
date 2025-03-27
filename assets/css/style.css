@@ -368,6 +368,7 @@ img.ag-section-row-images {
     top: -40px;
     width: 80px;
     height: 80px;
+	z-index: 1;
 }
 
 .img-with-textbox-col:nth-child(2) .img-with-textbox-texticon {
@@ -381,6 +382,7 @@ img.ag-section-row-images {
     bottom: -40px;
     width: 80px;
     height: 80px;
+	z-index: 1;
 }
 
 .img-with-textbox-col:nth-child(3) .img-with-textbox-texticon {
@@ -394,9 +396,29 @@ img.ag-section-row-images {
     top: -40px;
     width: 80px;
     height: 80px;
+	z-index: 1;
 }
 
 /* img-with-text-row styles end*/
+
+/* green counter box css start */
+
+.green-counter-box {
+    background: #124734;
+    padding: 18px;
+    font-size: 18px;
+    line-height: 24px;
+    color: #ffffff;
+    font-weight: 300;
+}
+
+span.green-counter-box-bigtext {
+    font-size: 35px;
+    line-height: 38px;
+    font-weight: 500;
+}
+
+/* green counter box css end */
 
 /* table custom financial css start */
 
