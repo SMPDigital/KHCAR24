@@ -342,9 +342,10 @@ table.ft thead tr:last-child { border-bottom:3px #124734  solid;}
 table.ft tbody tr:last-child { border-bottom:1px #124734  solid; }
 
 table.ft1 td+td { text-align:right }
-table.ft1 tbody tr td { vertical-align: bottom;}
-table.ft1 thead tr { background-color: #f2f0ee;}
-table.ft1 thead tr td+td {text-align:right; }
+table.ft1 tbody tr td { vertical-align: bottom;border-right:1px #124734  solid; text-align: right;}
+/*table.ft1 thead tr { background-color: #f2f0ee;}*/
+table.ft1 thead tr td {text-align:right;border-right:1px #124734  solid;}
+table.ft1 thead tr td+td {text-align:right;}
 table.ft1 thead tr:last-child { border-bottom:3px #124734  solid; }
 table.ft1 tbody tr:last-child { border-bottom:1px #124734  solid; }
 

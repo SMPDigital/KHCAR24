@@ -417,8 +417,10 @@ table.ft thead tr:last-child td{
 	border-right:1px #124734  solid;
 }
 
-table.ft tbody tr td:first-child strong {
+table.ft tbody tr td:first-child strong, table.ft1 tbody tr td:first-child strong {
 	float: left !important;
+	color: #124734;
 }
+
 
 /* table custom css start */
