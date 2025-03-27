@@ -18,10 +18,10 @@ jQuery(document).ready(function($){
 		if(getLevel){
 			getpath = "";
 		}else{
-			getpath = "../"; 
+			getpath = "../";
 		}
 		
-		data1 = "<div><img src='../../../slide-in-panel/js/"+getpath+"images/loading.gif'></div>"
+		data1 = "<div><img src='"+getpath+"images/loading.gif'></div>"
 		$('.cd-panel-content').html(data1);	    
         
         if(proceed){
@@ -32,7 +32,7 @@ jQuery(document).ready(function($){
 		$(function(){
 			$(".cd-panel-content").load('../financial_statements/notes_to_the_consolidated_financial_statements.html #'+$noteid, function() {
         	$(this).html($(this).html().replace('button', 'span'));
-			    $(this).html($(this).html().replace('class="collapse" aria-expanded="false"', 'class="" aria-expanded="false"'));
+			$(this).html($(this).html().replace('class="collapse" aria-expanded="false"', 'class="" aria-expanded="false"'));
     }); 
 });
 			
@@ -109,37 +109,37 @@ if (isIOS && iPhoneVersion() === "6") {
 // image loder 
 
 
-const images = document.querySelectorAll('[data-src]');
-const config = {
-  rootMargin: '-50px 0px -55% 0px',
-  threshold: 0.5
-};
+// const images = document.querySelectorAll('[data-src]');
+// const config = {
+//   rootMargin: '-50px 0px -55% 0px',
+//   threshold: 0.5
+// };
 
-let loaded = 0;
+// let loaded = 0;
 
-let observer = new IntersectionObserver(function (entries, self) {
-  entries.forEach(entry => {
-    if (entry.isIntersecting) {
-      // console.log(`Image ${entry.target.src} is in the viewport!`);
-      preloadImage(entry.target);
-      // Stop watching and load the image
-      self.unobserve(entry.target);
-    }
-  });
-});
+// let observer = new IntersectionObserver(function (entries, self) {
+//   entries.forEach(entry => {
+//     if (entry.isIntersecting) {
+//       // console.log(`Image ${entry.target.src} is in the viewport!`);
+//       preloadImage(entry.target);
+//       // Stop watching and load the image
+//       self.unobserve(entry.target);
+//     }
+//   });
+// });
 
-images.forEach(image => {
-  observer.observe(image);
-});
+// images.forEach(image => {
+//   observer.observe(image);
+// });
 
-function preloadImage(object) {
-  const data = object.getAttribute('data-src');
-  if (!data) { return; }
-  object.data = data;
+// function preloadImage(object) {
+//   const data = object.getAttribute('data-src');
+//   if (!data) { return; }
+//   object.data = data;
 	
 
 //  _updateMonitoring();
-}
+// }
 
 
 
