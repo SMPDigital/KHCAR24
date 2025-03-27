@@ -142,6 +142,7 @@ img.ag-section-row-images {
     width: 24%;
     background: #f3f6f5;
     padding: 8px;
+	scale: 1;
 }
 
 .ag-igib-counterbox-title {
