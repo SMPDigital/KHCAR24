@@ -3,7 +3,7 @@
 
 
 p {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;
+	
 	color: #2f2f2f;
 	font-style: normal;
 	font-weight: 200;
@@ -14,7 +14,7 @@ p {
 
 
 p.lifter1 {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; 
+	
 	color: #1C6E2B;
 	font-style: normal;
 	font-weight:500;
@@ -24,7 +24,7 @@ p.lifter1 {
 }
 
 p.lifter2 {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; 
+	
 	color: #1C6E2B;
 	font-style: normal;
 	font-weight: 400;
@@ -35,7 +35,7 @@ p.lifter2 {
 
 
 .pbx {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; 
+	
 	color: #39b54a;
 	font-style: normal;
 	font-weight:100;
@@ -50,7 +50,7 @@ p.lifter2 {
 }
 
 .pbx p {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;
+	
   color: #39b54a;
   font-style: normal;
   font-weight: 400;
@@ -219,7 +219,7 @@ p.lifter2 {
 
 
 .iconhead {
-	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif; 
+	
 	color: #39b54a;
 	font-style: normal;
 	font-weight: 400;
@@ -253,9 +253,9 @@ b, strong {
 }
 
 
-h1, h2, h3, h4, h5, h6 { font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;}
+h1, h2, h3, h4, h5, h6 { }
 
-h1 {font-weight: 500;font-size: 60px;color: #124734;padding: 0px;line-height: 65px; }
+h1 {font-weight: 500;font-size: 60px;color: #124734;padding: 0px;line-height: 65px; font-family: 'Canela', sans-serif; }
 h2 {font-weight: 500; font-size: 25px; color: #124734 ; line-height:30px; padding:0px; margin:15px 0px 5px 0px; }
 h3 {font-weight: 500; font-size: 22px; color: #124734; line-height: 26px; padding: 0px; margin: 15px 0px 3px 0px; }
 h4 {font-weight: 500 ; font-size: 21px; color: #958172; line-height:25px; padding:0px; margin:15px 0px 3px 0px; }
@@ -312,7 +312,7 @@ table.small80 ul li { font-size: 12px; margin-bottom: 5px; line-height: 16px; }
 
 /*######## TABLE STYLES ########*/
 
-table {	font-family: 'HelveticaNeue', Helvetica, Arial, sans-serif;  font-size: 16px; color: #2f2f2f; width: 100%; border-spacing: 0; line-height:1.5; border-collapse: collapse; margin-bottom: 20px; text-align: left; font-weight: 100; }
+table {	 font-size: 16px; color: #2f2f2f; width: 100%; border-spacing: 0; line-height:1.5; border-collapse: collapse; margin-bottom: 20px; text-align: left; font-weight: 100; }
 .small90 { font-size:90%;}
 .small80 { font-size:80% !important; }
 .small70 { font-size:70% !important; line-height: 14px;	 }
