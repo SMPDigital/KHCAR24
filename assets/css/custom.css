@@ -320,7 +320,7 @@ thead.small60 tr td, tbody.small60 tr td { font-size:60% !important; }
 thead.small60 td, tbody.small60 td { padding: 5px 5px 5px 5px; line-height: 12px; }
 
 thead td { padding: 10px 10px 5px 5px; font-size: 13px; line-height:13px; vertical-align: top; }
-tbody td  {	padding: 5px 10px 5px 5px; font-size: 14px; border-bottom: 1px #7A7A7A solid; vertical-align:top; }
+tbody td  {	padding: 5px 10px 5px 5px; font-size: 14px; vertical-align:top; }
 tbody td  p{font-size: 14px; margin: 0;}
 tbody td  li{font-size: 14px;}
 tbody > tr:hover { background-color: #f5f5f5; }
